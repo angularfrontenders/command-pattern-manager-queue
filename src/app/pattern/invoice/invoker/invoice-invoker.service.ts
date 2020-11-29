@@ -28,7 +28,6 @@ export class InvoiceInvokerService extends InvokerService implements IInvoiceInv
     }
 
     if (command.enqueue()){
-      console.log('queuing command: ' + commandName);
       this._queue.enqueue(command);
     }
     else {

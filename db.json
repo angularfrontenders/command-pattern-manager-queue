@@ -1,22 +1,4 @@
 {
   "invoices": [
-    {
-      "invoiceDate": "2020-11-28T10:28:25.040Z",
-      "invoiceNumber": "",
-      "totalAmount": 4,
-      "id": 1
-    },
-    {
-      "invoiceDate": "2020-11-28T10:42:42.961Z",
-      "invoiceNumber": "",
-      "totalAmount": 100,
-      "id": 2
-    },
-    {
-      "invoiceDate": "2020-11-28T10:44:14.538Z",
-      "invoiceNumber": "",
-      "totalAmount": 101,
-      "id": 3
-    }
   ]
 }

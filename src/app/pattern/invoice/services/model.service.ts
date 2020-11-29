@@ -36,6 +36,7 @@ export class ModelService extends ModelTemplate<IInvoice> {
     else {
       // check anyChanges
     }
+    // For example purposes send always true
     return true;
   }
 
